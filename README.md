@@ -21,8 +21,3 @@ Actualmente estoy construyendo mi portafolio profesional y aprendiendo tecnolog�
 </div>
 <br>
 
-### 📊 Estadísticas
-
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=CGPlaza&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas de CGPlaza" />
-</div>
