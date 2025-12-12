@@ -1,4 +1,4 @@
-### Hola, soy Carlos Gabriel Plaza 👋
+### Hola, soy Carlos Gabriel Plaza 
 
 Soy estudiante de la **Universidad Autónoma de Chile** y desarrollador en formación.
 Actualmente estoy construyendo mi portafolio profesional y aprendiendo tecnologías web.
